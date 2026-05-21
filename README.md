@@ -1,52 +1,35 @@
-# Predictive Analysis for IoT in Healthcare
+# Predictive Analysis using LSTM
 
-## Overview
-This project focuses on predictive analytics in IoT-enabled healthcare systems using machine learning and deep learning techniques. The system analyzes healthcare market trends, wearable device adoption, and sequential healthcare data using LSTM-based forecasting models.
-
----
+This project focuses on predicting market share trends using LSTM (Long Short-Term Memory) neural networks and time-series analysis techniques.
 
 ## Features
-- Predictive healthcare analytics using LSTM
-- IoT healthcare trend forecasting
-- Sequential data modeling
-- Data preprocessing and feature scaling
-- Healthcare market growth prediction
-- Machine learning-based predictive analysis
+- Data preprocessing and normalization
+- Time-series forecasting using LSTM
+- Deep learning model training
+- Market share prediction visualization
+- TensorFlow and Keras implementation
 
----
-
-## Tech Stack
+## Technologies Used
 - Python
 - TensorFlow
-- LSTM
+- Keras
 - Pandas
 - NumPy
+- Matplotlib
 - Scikit-learn
-- Jupyter Notebook
 
----
+## Project Screenshots
 
-## Dataset Insights
-- Healthcare IoT market analysis
-- Wearable healthcare device trends
-- Forecasted CAGR analysis
-- Sequential healthcare data forecasting
+### Dataset Preview
+![Dataset Preview](screenshots/dataset-preview.png)
 
----
+### Model Training
+![Training](screenshots/model-training-1.png)
 
-## Model Workflow
-1. Data preprocessing
-2. Feature scaling
-3. Sequential data preparation
-4. LSTM model training
-5. Prediction and forecasting
-6. Performance evaluation
+![Training](screenshots/model-training-2.png)
 
----
+### Prediction Graph
+![Prediction Graph](screenshots/prediction-graph.png)
 
-## Future Improvements
-- Real-time healthcare monitoring
-- IoT sensor integration
-- AI-driven patient risk prediction
-- Advanced forecasting pipelines
-- Cloud deployment for healthcare analytics
+## Repository Link
+[Click Here to View Project](https://github.com/swarnika13/Predictive-Analysis)
